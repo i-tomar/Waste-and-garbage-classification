@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 altair
 pandas
 streamlit
 =======
+=======
+>>>>>>> 6d3295f4c0eb5c0cac8bd3cd939185207e0bf822
 appnope==0.1.4
 asttokens==3.0.0
 comm==0.2.2
@@ -51,4 +54,7 @@ tqdm==4.67.1
 traitlets==5.14.3
 typing_extensions==4.13.2
 wcwidth==0.2.13
+<<<<<<< HEAD
 >>>>>>> 6d3295f (feat: initial release of Smart Waste Classifier with Streamlit UI)
+=======
+>>>>>>> 6d3295f4c0eb5c0cac8bd3cd939185207e0bf822

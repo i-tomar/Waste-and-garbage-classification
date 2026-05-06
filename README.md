@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: Garbage Classification-identifier
 emoji: 🚀
@@ -19,6 +20,8 @@ Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :hear
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
 forums](https://discuss.streamlit.io).
 =======
+=======
+>>>>>>> 6d3295f4c0eb5c0cac8bd3cd939185207e0bf822
 # ♻️ Smart Waste Classifier: AI-Powered Sustainability
 
 **Smart Waste Classifier** is a sustainability-focused artificial intelligence application designed to automate waste sorting. By leveraging state-of-the-art Computer Vision, the system accurately classifies waste into 12 distinct categories, providing immediate disposal guidance to support environmental sustainability and circular economy initiatives.
@@ -112,4 +115,7 @@ This project is currently maintained as a professional demonstration of integrat
 
 ---
 *CSIT Final Year | Sustainability through Technology*
+<<<<<<< HEAD
 >>>>>>> 6d3295f (feat: initial release of Smart Waste Classifier with Streamlit UI)
+=======
+>>>>>>> 6d3295f4c0eb5c0cac8bd3cd939185207e0bf822

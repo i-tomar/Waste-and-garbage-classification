@@ -1,8 +1,17 @@
 streamlit
+<<<<<<< HEAD
 torch==2.7.0
 torchvision==0.22.0
+=======
+torch
+torchvision
+>>>>>>> ede381c (fix: resolve merge conflicts and clean up requirements.txt)
 pillow
 numpy
 scikit-learn
 scipy
+<<<<<<< HEAD
 tqdm
+=======
+tqdm
+>>>>>>> ede381c (fix: resolve merge conflicts and clean up requirements.txt)
